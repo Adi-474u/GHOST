@@ -1,5 +1,5 @@
 """
-Ghost Assistant v11 — ChatGPT-Level + MAX Stealth + REAL Vision
+
 ===============================================================
 pip install pillow SpeechRecognition pyaudio keyboard pyttsx3 requests
 
